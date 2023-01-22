@@ -1,3 +1,3 @@
 # onion2web
 
-A simple script for accessing Tor hidden services over via web proxy.
+A simple script for accessing Tor hidden services via web proxy.
